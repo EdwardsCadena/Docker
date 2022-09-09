@@ -1,0 +1,12 @@
+F:\Repositories\Docker\Docker\Docker.Core\bin\Debug\net6.0\Docker.Core.deps.json
+F:\Repositories\Docker\Docker\Docker.Core\bin\Debug\net6.0\Docker.Core.dll
+F:\Repositories\Docker\Docker\Docker.Core\bin\Debug\net6.0\Docker.Core.pdb
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.csproj.AssemblyReference.cache
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.AssemblyInfoInputs.cache
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.AssemblyInfo.cs
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.csproj.CoreCompileInputs.cache
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.dll
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\refint\Docker.Core.dll
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\Docker.Core.pdb
+F:\Repositories\Docker\Docker\Docker.Core\obj\Debug\net6.0\ref\Docker.Core.dll

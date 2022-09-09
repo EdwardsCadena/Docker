@@ -1,0 +1,17 @@
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.csproj.AssemblyReference.cache
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.AssemblyInfoInputs.cache
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.AssemblyInfo.cs
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Infrastructure.deps.json
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Infrastructure.runtimeconfig.json
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Infrastructure.dll
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Infrastructure.pdb
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Core.dll
+F:\Repositories\Docker\Docker\Docker.Infrastructure\bin\Debug\net6.0\Docker.Core.pdb
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.csproj.CopyComplete
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.dll
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\refint\Docker.Infrastructure.dll
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.pdb
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\Docker.Infrastructure.genruntimeconfig.cache
+F:\Repositories\Docker\Docker\Docker.Infrastructure\obj\Debug\net6.0\ref\Docker.Infrastructure.dll
